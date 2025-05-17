@@ -36,7 +36,7 @@ public class ChatActivity extends AppCompatActivity {
     private TextView usernameDisplay;
     private String username;
 
-    private static final String GROQ_API_KEY = "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";
+    private static final String GROQ_API_KEY = "API_KEY_HERE";
     private static final String GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions";
     private static final String MODEL_NAME = "llama3-8b-8192";
 
